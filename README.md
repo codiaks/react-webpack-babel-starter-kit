@@ -1,2 +1,2 @@
-# react-webpack-babel-starter-kit
-A starter kit for react app with webpack and babel
+# ptracker
+this is a project tracker app build with react , babel and webpack
